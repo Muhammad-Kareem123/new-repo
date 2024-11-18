@@ -1,0 +1,15 @@
+C:\Users\ht\source\repos\Data_Grid\Data_Grid\bin\Debug\Data_Grid.exe.config
+C:\Users\ht\source\repos\Data_Grid\Data_Grid\bin\Debug\Data_Grid.exe
+C:\Users\ht\source\repos\Data_Grid\Data_Grid\bin\Debug\Data_Grid.pdb
+C:\Users\ht\source\repos\Data_Grid\Data_Grid\obj\Debug\Data_Grid.csproj.AssemblyReference.cache
+C:\Users\ht\source\repos\Data_Grid\Data_Grid\obj\Debug\MainWindow.g.cs
+C:\Users\ht\source\repos\Data_Grid\Data_Grid\obj\Debug\App.g.cs
+C:\Users\ht\source\repos\Data_Grid\Data_Grid\obj\Debug\Data_Grid_MarkupCompile.cache
+C:\Users\ht\source\repos\Data_Grid\Data_Grid\obj\Debug\Data_Grid_MarkupCompile.lref
+C:\Users\ht\source\repos\Data_Grid\Data_Grid\obj\Debug\MainWindow.baml
+C:\Users\ht\source\repos\Data_Grid\Data_Grid\obj\Debug\Data_Grid.g.resources
+C:\Users\ht\source\repos\Data_Grid\Data_Grid\obj\Debug\Data_Grid.Properties.Resources.resources
+C:\Users\ht\source\repos\Data_Grid\Data_Grid\obj\Debug\Data_Grid.csproj.GenerateResource.cache
+C:\Users\ht\source\repos\Data_Grid\Data_Grid\obj\Debug\Data_Grid.csproj.CoreCompileInputs.cache
+C:\Users\ht\source\repos\Data_Grid\Data_Grid\obj\Debug\Data_Grid.exe
+C:\Users\ht\source\repos\Data_Grid\Data_Grid\obj\Debug\Data_Grid.pdb
